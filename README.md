@@ -15,7 +15,7 @@ first download this theme to your `themes` directory:
 
 ```bash
 cd themes
-git clone https://github.com/bfan.cc/after-dork.git
+git clone https://github.com/bfancy/after-dork.git
 ```
 and then enable it in your `config.toml`:
 
