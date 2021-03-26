@@ -1,7 +1,7 @@
 # after-dork
-a robust, elegant d(a|o)rk theme for Zola.
+a robust, elegant d(a|o)rk theme for [Zola](https://www.getzola.org/).
 
-![after-dork screenshot](https://github.com/getzola/after-dark/blob/master/screenshot.png?raw=true)
+![after-dork screenshot](https://github.com/bfancy/after-dork/blob/main/screenshot.png?raw=true)
 
 ## contents
 
