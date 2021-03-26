@@ -1,0 +1,19 @@
+base_url = "https://bfan.cc"
+compile_sass = true
+title = "after-dork theme"
+description = ""
+generate_feed = true
+
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+[extra]
+author = "Duke"
+after_dork_menu = [
+    {url = "$BASE_URL", name = "home"},
+    {url = "$BASE_URL/categories", name = "categories"},
+    {url = "$BASE_URL/tags", name = "tags"},
+]
+after_dork_title = "My blog"
