@@ -55,6 +55,7 @@ after_dork_menu = [
     {url = "$BASE_URL", name = "home"},
     {url = "$BASE_URL/categories", name = "categories"},
     {url = "$BASE_URL/tags", name = "tags"},
+    {url = "$BASE_URL/archive", name = "archive"},
     {url = "https://duckduckgo.com", name = "DDG"},
 ]
 ```
