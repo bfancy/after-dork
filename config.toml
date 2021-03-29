@@ -1,4 +1,4 @@
-base_url = "https://bfan.cc"
+base_url = "https://bfan.cc/after-dork/"
 compile_sass = true
 title = "after-dork theme"
 description = ""
@@ -10,11 +10,11 @@ taxonomies = [
 ]
 
 [extra]
-author = "Duke"
+author = "bfancy"
 after_dork_menu = [
     {url = "$BASE_URL", name = "home"},
     {url = "$BASE_URL/categories", name = "categories"},
     {url = "$BASE_URL/tags", name = "tags"},
     {url = "$BASE_URL/archive", name = "archive"},
 ]
-after_dork_title = "My blog"
+after_dork_title = "my demo blog"
