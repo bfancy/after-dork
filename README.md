@@ -9,6 +9,7 @@ a robust, elegant d(a|o)rk theme for [Zola](https://www.getzola.org/).
 - [options](#options)
   - [top menu](#top-menu)
   - [title](#title)
+- [original](#original)
 
 ## installation
 first download this theme to your `themes` directory:
