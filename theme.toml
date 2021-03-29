@@ -1,16 +1,15 @@
 name = "after-dork"
-description = "A robust, elegant d(a|o)rk theme"
+description = "a robust, elegant d(a|o)rk theme"
 license = "MIT"
-homepage = "https://github.com/gtfo/after-dork"
-min_version = "0.1.0"
-demo = "https://bfan.cc"
+homepage = "https://github.com/bfancy/after-dork"
+min_version = "0.11.0"
+demo = "https://bfan.cc/after-dork"
 
 [extra]
 
-
 [author]
-name = "Duke"
-homepage = "https://bfan.cc"
+name = "bfancy"
+homepage = "https://github.com/bfancy"
 
 [original]
 author =  "after-dark"
