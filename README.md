@@ -26,7 +26,7 @@ theme = "after-dork"
 this theme requires your index section (`content/_index.md`) to be paginated to work:
 
 ```toml
-paginate_by = 5
+paginate_by = 3
 ```
 
 the posts should therefore be in directly under the `content` folder.
