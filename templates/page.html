@@ -19,7 +19,9 @@
         <footer>
             <hr>
             <p>
-                {% if config.extra.author %}
+                {% if page.extra.author %}
+                    published by {{ page.extra.author }}
+                {% elif config.extra.author %}
                     published by {{ config.extra.author }}
                 {% endif %}
                 {% if page.taxonomies.categories %}
